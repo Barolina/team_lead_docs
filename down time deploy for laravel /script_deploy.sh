@@ -44,3 +44,8 @@ mkdir -p $NGINX_DIR
 rm -f $NGINX_DIR/project
 ln -sf $RELEASE_DIR $NGINX_DIR/project
 ```
+
+
+run 
+
+> script_deploy.sh v1.0.3
