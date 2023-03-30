@@ -1,3 +1,6 @@
+Важно:  использовать  собранные артефакты
+
+
 ```sh
 #!/bin/bash
 # Terminate execution if any command fails
@@ -21,8 +24,6 @@ git archive \
     $TAG \
     | tar xf -
 
-# Install laravel dependencies with composer
-composer install -o --no-interaction --no-dev
 
 # Create symlinks to `storage` and `.env`
 ln -sf $BASE_DIR/.env ./
