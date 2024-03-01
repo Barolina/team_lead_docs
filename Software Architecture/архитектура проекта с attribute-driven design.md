@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Основные шаги](#%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D0%B3%D0%B8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Основные шаги
 
 1. Цель проектирования
