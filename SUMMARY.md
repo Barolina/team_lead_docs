@@ -42,3 +42,7 @@
   * [сбор требовай](<Тестирование/сбор требовай.md>)
 * [Управление продуктом](<Управление продуктом/README.md>)
   * [гайд  с  label](<Управление продуктом/гайд  с  label.md>)
+
+## System Design
+
+* [Полное руководство по проектированию систем в виде схемы](system-design/polnoe-rukovodstvo-po-proektirovaniyu-sistem-v-vide-skhemy.md)

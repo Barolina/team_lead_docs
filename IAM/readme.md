@@ -1,25 +1,22 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# IAM
 
-- [Ldap  and  Keycloak](#ldap--and--keycloak)
+**Table of Contents** _generated with_ [_DocToc_](https://github.com/thlorenz/doctoc)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+* [Ldap and Keycloak](./#ldap--and--keycloak)
 
-Identity 
+Identity
 
 Authentication
 
 Authorization
 
-/workspaces/team_lead_docs/IAM/iam gateway.png
+/workspaces/team\_lead\_docs/IAM/iam gateway.png
 
-Password, Session, Cookie, Token, JWT, SSO, OAuth 
+Password, Session, Cookie, Token, JWT, SSO, OAuth
 
-from: https://blog.bytebytego.com/p/password-session-cookie-token-jwt?utm_source=post-email-title&publication_id=817132&post_id=112781858&isFreemail=true&utm_medium=email
+from: https://blog.bytebytego.com/p/password-session-cookie-token-jwt?utm\_source=post-email-title\&publication\_id=817132\&post\_id=112781858\&isFreemail=true\&utm\_medium=email
 
-
-## Ldap  and  Keycloak 
+### Ldap and Keycloak
 
 ![Alt text](image.png)
 

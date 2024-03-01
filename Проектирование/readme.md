@@ -1,13 +1,11 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# Проектирование
 
-- [стадии](#%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%B8)
-    - [источник](#%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)
+**Table of Contents** _generated with_ [_DocToc_](https://github.com/thlorenz/doctoc)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+* [стадии](./#стадии)
+  * [источник](./#источник)
 
-# стадии
+## стадии
 
 Вот расписание использования указанных меток в GitLab:
 
@@ -33,7 +31,7 @@
 
 "Workflow:приемка": аналитик производит приемку user story, проверяет соответствие требованиям.
 
-"Workflow:done_приемка": приемка успешно завершена, задача готова к следующим этапам.
+"Workflow:done\_приемка": приемка успешно завершена, задача готова к следующим этапам.
 
 "Замечания": присутствуют замечания на любой стадии задачи, которые требуют дальнейшей работы.
 
@@ -51,8 +49,6 @@
 
 "В работе": задача находится в процессе реализации разработчиком, активно выполняется.
 
+#### источник
 
-
-### источник 
-
-https://platform.gov.ru/wp-content/uploads/2022/12/Методика_проектирования_целевой_архитектуры_домена-1.pdf
+https://platform.gov.ru/wp-content/uploads/2022/12/Методика\_проектирования\_целевой\_архитектуры\_домена-1.pdf
