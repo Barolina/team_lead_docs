@@ -52,4 +52,5 @@
 
 ## Develop
 
+* [git](develop/git.md)
 * [React](develop/react.md)
