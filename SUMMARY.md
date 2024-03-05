@@ -48,6 +48,7 @@
 ## System Design
 
 * [Полное руководство по проектированию систем в виде схемы](system-design/polnoe-rukovodstvo-po-proektirovaniyu-sistem-v-vide-skhemy.md)
+* [Example](system-design/example.md)
 
 ## Develop
 
