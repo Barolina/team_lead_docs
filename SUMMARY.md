@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README.md](README.md)
-* [agile  planning](<agile  planning.md>)
+* [agile planning](<agile  planning.md>)
 * [IAM](IAM/readme.md)
 * [php- laravel](<php- laravel.md>)
 * [DEPLOY](DEPLOY/README.md)
@@ -21,7 +21,7 @@
 * [Картография](Картография/README.md)
   * [arch\_web\_client](Картография/arch\_web\_client.md)
   * [example system design](<Картография/example system design.md>)
-  * [источники  ДЗЗ](<Картография/источники  ДЗЗ.md>)
+  * [источники ДЗЗ](<Картография/источники  ДЗЗ.md>)
   * [источники](Картография/источники.md)
 * [Постановка задач](<Постановка задач/readme.md>)
 * [Примеры](Примеры/README.md)
@@ -35,14 +35,18 @@
   * [субд](СУБД/субд.md)
   * [trees](СУБД/trees/README.md)
     * [nsi](СУБД/trees/nsi.md)
-    * [как  хранит в БД  деревья](<СУБД/trees/как  хранит в БД  деревья.md>)
+    * [как хранит в БД деревья](<СУБД/trees/как  хранит в БД  деревья.md>)
     * [оптимизация на уровне БД](<СУБД/trees/оптимизация на уровне БД.md>)
 * [Тестирование](Тестирование/README.md)
   * [метрики тестирования](<Тестирование/метрики тестирования.md>)
   * [сбор требовай](<Тестирование/сбор требовай.md>)
 * [Управление продуктом](<Управление продуктом/README.md>)
-  * [гайд  с  label](<Управление продуктом/гайд  с  label.md>)
+  * [гайд с label](<Управление продуктом/гайд  с  label.md>)
 
 ## System Design
 
 * [Полное руководство по проектированию систем в виде схемы](system-design/polnoe-rukovodstvo-po-proektirovaniyu-sistem-v-vide-skhemy.md)
+
+## Develop
+
+* [React](develop/react.md)
