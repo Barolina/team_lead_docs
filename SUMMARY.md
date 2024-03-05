@@ -2,7 +2,7 @@
 
 * [README.md](README.md)
 * [agile planning](<agile  planning.md>)
-* [IAM](iam/README.md)
+* [iam](iam/README.md)
   * [Keycloak](iam/keycloak.md)
 * [php- laravel](<php- laravel.md>)
 * [DEPLOY](DEPLOY/README.md)
